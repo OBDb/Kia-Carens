@@ -1,0 +1,25 @@
+generations:
+  - name: "First Generation"
+    start_year: 1999
+    end_year: 2002
+    description: "The original Kia Carens was a compact MPV designed primarily for the Asian and European markets. Featuring a tall, boxy design typical of small minivans of that era, it prioritized interior space and practicality. Available with seating for five or seven passengers, it utilized a space-efficient packaging approach. Powertrain options included small-displacement four-cylinder engines, typically 1.8L and 2.0L gasoline units, with manual or automatic transmissions. The interior was basic and functional, with a focus on durability rather than luxury. This generation established the Carens nameplate in Kia's global lineup, though it had limited presence in some markets like North America where it wasn't offered."
+
+  - name: "Second Generation"
+    start_year: 2002
+    end_year: 2006
+    description: "The second-generation Carens featured more refined styling with a smoother, more aerodynamic profile. Built on an updated platform, it offered improved handling and ride comfort. Engine options expanded to include more efficient and powerful units, with diesel options becoming particularly important in European markets. The interior saw enhancements in material quality, design, and feature content, reflecting Kia's overall push toward better quality. Seating for seven became more widely available, though the third row remained best suited for children. This generation continued to develop the Carens as a practical family vehicle that prioritized value and functionality."
+
+  - name: "Third Generation"
+    start_year: 2006
+    end_year: 2013
+    description: "The third-generation Carens (marketed as the Rondo in North America) featured more car-like styling and driving dynamics. Designed under the direction of Peter Schreyer, it presented a more cohesive and attractive appearance than its predecessors. Engine options varied by market but typically included improved four-cylinder gasoline and diesel units with better efficiency and refinement. The interior offered a more upscale feel with better materials and design, plus additional features including available navigation and premium audio systems. Safety features expanded to include more airbags and electronic stability control. This generation broadened the Carens/Rondo's appeal by combining its traditional practicality with improved refinement and styling."
+
+  - name: "Fourth Generation"
+    start_year: 2013
+    end_year: 2022
+    description: "The fourth-generation Carens featured more sophisticated styling with Kia's 'tiger nose' grille and sleeker proportions, despite maintaining its compact MPV packaging. Built on a platform shared with the Ceed, it offered a good balance of interior space and manageable exterior dimensions. Engine options typically included efficient four-cylinder gasoline and diesel units, with manual or automatic transmissions depending on the market. The interior represented a significant step forward with higher quality materials, modern design, and enhanced technology including touchscreen infotainment systems with connectivity features. Safety technology advanced with available features like blind spot detection and lane departure warning. This generation elevated the Carens to a more refined family vehicle that competed on more than just practicality and value."
+
+  - name: "Fifth Generation"
+    start_year: 2022
+    end_year: null
+    description: "The current Carens (marketed as the Carens in some markets and as the KY in others) has been repositioned as a three-row crossover rather than a traditional MPV, reflecting changing consumer preferences. Built on Kia's mid-size platform but adapted for markets like India where it was introduced first, it features SUV-inspired styling with a bold front end, muscular proportions, and increased ground clearance. Engine options vary by market but typically include modern four-cylinder gasoline and diesel units, some with turbocharging for improved efficiency and performance. The interior represents a major advancement with more upscale design, higher quality materials, and advanced technology including a 10.25-inch touchscreen, digital instrument cluster, and comprehensive connectivity options. Safety has been emphasized with Kia's DriveWise suite of driver assistance features available on higher trims. This generation adapts the Carens concept for the crossover-dominated modern market while maintaining its focus on practicality, value, and family-friendly features."
