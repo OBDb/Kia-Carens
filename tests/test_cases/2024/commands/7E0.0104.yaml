@@ -1,0 +1,64 @@
+command_id: 7E0.0104
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80341042A
+  expected_values:
+    LOAD_PCT: 16.47059
+- response: 7E80341042D
+  expected_values:
+    LOAD_PCT: 17.64706
+- response: 7E80341042E
+  expected_values:
+    LOAD_PCT: 18.03922
+- response: '7E803410430'
+  expected_values:
+    LOAD_PCT: 18.82353
+- response: '7E803410437'
+  expected_values:
+    LOAD_PCT: 21.56863
+- response: '7E803410438'
+  expected_values:
+    LOAD_PCT: 21.96078
+- response: 7E80341043A
+  expected_values:
+    LOAD_PCT: 22.7451
+- response: 7E80341043F
+  expected_values:
+    LOAD_PCT: 24.70588
+- response: 7E80341044E
+  expected_values:
+    LOAD_PCT: 30.58824
+- response: 7E80341044F
+  expected_values:
+    LOAD_PCT: 30.98039
+- response: '7E803410452'
+  expected_values:
+    LOAD_PCT: 32.15686
+- response: 7E80341045B
+  expected_values:
+    LOAD_PCT: 35.68627
+- response: 7E80341045D
+  expected_values:
+    LOAD_PCT: 36.47059
+- response: '7E803410460'
+  expected_values:
+    LOAD_PCT: 37.64706
+- response: '7E803410464'
+  expected_values:
+    LOAD_PCT: 39.21569
+- response: '7E803410469'
+  expected_values:
+    LOAD_PCT: 41.17647
+- response: 7E80341046B
+  expected_values:
+    LOAD_PCT: 41.96078
+- response: '7E803410477'
+  expected_values:
+    LOAD_PCT: 46.66667
+- response: '7E803410484'
+  expected_values:
+    LOAD_PCT: 51.76471
+- response: 7E80341048C
+  expected_values:
+    LOAD_PCT: 54.90196

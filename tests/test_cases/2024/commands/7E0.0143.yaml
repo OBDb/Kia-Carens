@@ -1,0 +1,58 @@
+command_id: 7E0.0143
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8044143002C
+  expected_values:
+    LOAD_ABS: 17.2549
+- response: 7E8044143002D
+  expected_values:
+    LOAD_ABS: 17.64706
+- response: 7E8044143002E
+  expected_values:
+    LOAD_ABS: 18.03922
+- response: '7E80441430032'
+  expected_values:
+    LOAD_ABS: 19.60784
+- response: '7E80441430040'
+  expected_values:
+    LOAD_ABS: 25.09804
+- response: '7E80441430047'
+  expected_values:
+    LOAD_ABS: 27.84314
+- response: 7E8044143004B
+  expected_values:
+    LOAD_ABS: 29.41176
+- response: 7E8044143004F
+  expected_values:
+    LOAD_ABS: 30.98039
+- response: '7E80441430050'
+  expected_values:
+    LOAD_ABS: 31.37255
+- response: '7E80441430051'
+  expected_values:
+    LOAD_ABS: 31.76471
+- response: '7E80441430054'
+  expected_values:
+    LOAD_ABS: 32.94118
+- response: 7E8044143005B
+  expected_values:
+    LOAD_ABS: 35.68627
+- response: 7E8044143006A
+  expected_values:
+    LOAD_ABS: 41.56863
+- response: 7E8044143006C
+  expected_values:
+    LOAD_ABS: 42.35294
+- response: '7E80441430077'
+  expected_values:
+    LOAD_ABS: 46.66667
+- response: 7E8044143007F
+  expected_values:
+    LOAD_ABS: 49.80392
+- response: 7E8044143008F
+  expected_values:
+    LOAD_ABS: 56.07843
+- response: '7E80441430093'
+  expected_values:
+    LOAD_ABS: 57.64706
