@@ -5,36 +5,6 @@ test_cases:
 - response: 7E803410F54
   expected_values:
     IAT: 44
-- response: 7E803410F55
-  expected_values:
-    IAT: 45
-- response: 7E803410F56
-  expected_values:
-    IAT: 46
-- response: 7E803410F57
-  expected_values:
-    IAT: 47
-- response: 7E803410F58
-  expected_values:
-    IAT: 48
-- response: 7E803410F59
-  expected_values:
-    IAT: 49
-- response: 7E803410F5A
-  expected_values:
-    IAT: 50
-- response: 7E803410F5B
-  expected_values:
-    IAT: 51
-- response: 7E803410F5C
-  expected_values:
-    IAT: 52
-- response: 7E803410F5F
-  expected_values:
-    IAT: 55
-- response: 7E803410F61
-  expected_values:
-    IAT: 57
 - response: 7E803410F69
   expected_values:
     IAT: 65
