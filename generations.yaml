@@ -1,0 +1,23 @@
+references:
+  - "https://en.wikipedia.org/wiki/Kia_Carens"
+
+generations:
+  - name: "First Generation"
+    start_year: 1999
+    end_year: 2005
+    description: "The original Kia Carens (RS/FJ) was a compact MPV designed primarily for the Asian and European markets. Featuring a tall, boxy design typical of small minivans of that era, it prioritized interior space and practicality. Based on the same platform as the Kia Sephia, it was available with seating for five or seven passengers. Powertrain options included small-displacement four-cylinder engines, typically 1.8L and 2.0L gasoline units, with manual or automatic transmissions. A facelift was issued in 2002, updating the front and rear styling. The model was discontinued in Australia in 2001, but production continued elsewhere until the second generation launched. This generation established the Carens nameplate in Kia's global lineup."
+
+  - name: "Second Generation"
+    start_year: 2006
+    end_year: 2012
+    description: "The second-generation Carens (UN) featured more refined styling with a smoother, more aerodynamic profile. Marketed as the Rondo in North America and Australia, it was launched in 2006 following Kia's introduction of the Multi-S concept at the Frankfurt Motor Show. Built on an updated platform, it offered improved handling and ride comfort. Engine options included a 2.4-liter four-cylinder engine or an optional 2.7-liter V6 engine in North America, while European markets saw diesel options. The interior saw enhancements in material quality, design, and feature content. Seating for seven became widely available. Kia discontinued the Rondo in the United States in 2010, but the facelifted model continued in Canada through 2012."
+
+  - name: "Third Generation"
+    start_year: 2013
+    end_year: 2021
+    description: "The third-generation Carens (RP) featured more car-like styling and driving dynamics, designed under the direction of Peter Schreyer. Debuted in September 2012 at the Paris Motor Show, with sales beginning March 2013. It presented a more cohesive and attractive appearance with Kia's tiger nose grille. Engine options included a 2.0-liter Nu four-cylinder GDI petrol and a 1.7-liter U2 diesel, paired with six-speed manual or automatic transmissions. A facelift in September 2016 brought redesigned fascias, enlarged grille, and a 7-speed dual-clutch transmission for the diesel. The interior offered a more upscale feel with better materials and touchscreen infotainment systems. In North America, it was only available in Canada until 2017."
+
+  - name: "Fourth Generation"
+    start_year: 2021
+    end_year: null
+    description: "The fourth-generation Carens (KY) was revealed in India on December 16, 2021, and represents a significant shift from traditional MPVs to a compact crossover design. Based on a stretched Seltos/Hyundai Creta platform, it is primarily marketed for India and emerging markets. Engine options include a 1.5-liter naturally aspirated petrol, a 1.4-liter turbocharged petrol, and a 1.5-liter diesel, paired with six-speed manual, CVT, or seven-speed DCT transmissions. The interior features dual 12.25-inch displays on higher trims, with advanced connectivity and safety features including Level 2 ADAS. Offered in 6-seater and 7-seater configurations, it maintains the Carens' focus on practicality while adapting to crossover-dominated markets."
