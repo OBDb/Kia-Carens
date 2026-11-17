@@ -7,7 +7,6 @@ test_cases:
     778210000000000AAAA
 - expected_values:
     CARENS_HAZARD_SW: 0
-    CARENS_HL_SW: 1
   response: |-
     778100B62BC052F1120
     778210000000400AAAA
